@@ -272,7 +272,7 @@ export const defaultConfig = {
     // 购买漫画
     buy: false,
     // read
-    read: false,
+    read: true,
     // 购买漫画 id（优先级高）
     mc: [] as number[],
     // 购买漫画名称（优先级中）
